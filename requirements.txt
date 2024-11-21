@@ -1,0 +1,11 @@
+django
+python-dotenv
+psycopg2
+langchain
+openai
+langchain-openai
+langchain-community
+langchain-experimental
+neo4j
+tiktoken
+lark
